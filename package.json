@@ -1,0 +1,12 @@
+{
+  "name": "time-to-herd-scraper",
+  "version": "1.0.0",
+  "main": "main.js",
+  "author": "K-You",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "http": "^0.0.1-security",
+    "puppeteer": "^8.0.0"
+  }
+}
